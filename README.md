@@ -1,2 +1,5 @@
 # Google_Landmark_Classifier_2019
-Building a ResNet50-Classifier to tackle Google's classification challenge
+
+Please refer to the Power Point presentation for a more detailed overview of the project.
+
+Dataset can be downloaded with the file Landmarks_Preprocess.py
